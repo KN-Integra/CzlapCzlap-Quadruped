@@ -12,8 +12,7 @@ Część elektroniczna robota została wykonana w programie Kicad EDA. Do projek
 
 ## Schemat połączeń
 
-<img src="![image](https://github.com/user-attachments/assets/22f4b7df-ced5-4eec-8321-4dd577fc0c67)
-" width="600" alt="image">
+<img src="https://github.com/user-attachments/assets/22f4b7df-ced5-4eec-8321-4dd577fc0c67" width="600" alt="image">
 
 ## Widok płytki PCB ze ścieżkami
 
