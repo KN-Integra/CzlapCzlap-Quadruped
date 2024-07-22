@@ -8,6 +8,7 @@ Część elektroniczna robota została wykonana w programie Kicad EDA. Do projek
 * Sterownik serw Pololu maestro mini 16-kanałowy (12-kanałowy też można wpiąć)
 * Wyjścia USB-C, micro-HDMi, USB mini-B - w celu zewnętrznego podpięcia się do robota bez konieczności wyjmowania Raspberry pi oraz sterownika serw
 * Moduły I2C, SPI w celu dokonywania pomiarów za pomocą zewnętrznego przetwornika ADC, akcelerometru, komunikacji z Gamepadem, czujnikami prądu czy też sterownikami diod
+* Moduł konwertera napięć do komunikacji między raspberry PI a sterownikiem Pololu Maestro Mini
 
 ## Schemat połączeń
 
