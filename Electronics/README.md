@@ -25,5 +25,5 @@ Część elektroniczna robota została wykonana w programie Kicad EDA. Do projek
 
 
 
-<img src="https://github.com/user-attachments/assets/a7eec8a2-031b-4ca0-948b-49a6f5cfb982" width="500" alt="image">
-<img src="https://github.com/user-attachments/assets/0b16ec17-e14e-4dbf-96d8-df1000f2d60c" width="500" alt="image">
+<img src="https://github.com/user-attachments/assets/a7eec8a2-031b-4ca0-948b-49a6f5cfb982" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/0b16ec17-e14e-4dbf-96d8-df1000f2d60c" width="400" alt="image">
