@@ -1,4 +1,5 @@
 # Electronics
+PCB v.0.1
 
 Część elektroniczna robota została wykonana w programie Kicad EDA. Do projektu wykorzystano poniżej wymienione elementy:
 * Serwa Feetech FI7635M - obrót 180 stopni
