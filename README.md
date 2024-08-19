@@ -7,3 +7,11 @@ A grant project for a quadrupedal walking robot by members of the KN Integra.
 # September 2024
 ![image](https://github.com/user-attachments/assets/fed065a8-2902-406b-838a-2178db8c4f61)
 ![image](https://github.com/user-attachments/assets/2d68844f-1c69-49e7-a02d-baa063ff587b)
+
+# April 2024
+![image](https://github.com/user-attachments/assets/e527cf83-18f6-453f-a4c7-a3b07f945e28)
+
+
+# January 2024
+![image](https://github.com/user-attachments/assets/e38b28db-053a-4690-8907-4bb93da34687)
+![image](https://github.com/user-attachments/assets/621fd199-b911-4854-95f1-7312a3965fdc)
