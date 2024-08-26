@@ -5,7 +5,7 @@ A grant project for a quadrupedal walking robot by members of the KN Integra.
 * Mechanics - TODO
 * Program - TODO (glowny kod na prywatnym repozytorium)
 ## September 2024
-<img src="https://github.com/user-attachments/assets/fed065a8-2902-406b-838a-2178db8c4f61" width="420" alt="image">
+<img src="https://github.com/user-attachments/assets/fed065a8-2902-406b-838a-2178db8c4f61" width="425" alt="image">
 <img src="https://github.com/user-attachments/assets/2d68844f-1c69-49e7-a02d-baa063ff587b" width="320" alt="image">
 
 ## May 2024
