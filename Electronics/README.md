@@ -1,20 +1,22 @@
 # Electronics
+
 PCB v.0.1
 
-Część elektroniczna robota została wykonana w programie Kicad EDA. Do projektu wykorzystano poniżej wymienione elementy:
-* Serwa Feetech FI7635M - obrót 180 stopni
-* Przetwornice Pololu D36V50F7
-* Raspberry pi 4b 4GB
-* Sterownik serw Pololu maestro mini 16-kanałowy (12-kanałowy też można wpiąć)
-* Wyjścia USB-C, micro-HDMi, USB mini-B - w celu zewnętrznego podpięcia się do robota bez konieczności wyjmowania Raspberry pi oraz sterownika serw
-* Moduły I2C, SPI w celu dokonywania pomiarów za pomocą zewnętrznego przetwornika ADC, akcelerometru, komunikacji z Gamepadem, czujnikami prądu czy też sterownikami diod
-* Moduł konwertera napięć do komunikacji między raspberry PI a sterownikiem Pololu Maestro Mini
+The electronic part of the robot was designed using the Kicad EDA software. The following components were used for this project:
 
-## Schemat połączeń
+- Feetech FI7635M Servos - 180-degree rotation
+- Pololu D36V50F7 Converters
+- Raspberry Pi 4B 4GB
+- Pololu Maestro Mini 16-channel servo controller (a 12-channel version can also be connected)
+- USB-C, micro-HDMI, and USB mini-B ports - to allow external connection to the robot without needing to remove the Raspberry Pi or the servo controller
+- I2C and SPI modules - for taking measurements using an external ADC converter, accelerometer, communicating with a Gamepad, current sensors, or LED drivers
+- Voltage level converter module - for communication between the Raspberry Pi and the Pololu Maestro Mini controller
+
+## Connection Schematic
 
 <img src="https://github.com/user-attachments/assets/5ec6ac46-b3a4-433a-acf5-d819b28db146" width="700" alt="image">
 
-## Widok płytki PCB ze ścieżkami oraz widok 3D
+## PCB Layout (Traces View) and 3D View
 
 <img src="https://github.com/user-attachments/assets/a7eec8a2-031b-4ca0-948b-49a6f5cfb982" width="350" alt="image">
 <img src="https://github.com/user-attachments/assets/0b16ec17-e14e-4dbf-96d8-df1000f2d60c" width="400" alt="image">
